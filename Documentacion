@@ -10,5 +10,6 @@ y a su vez estos se vean mas amigables para el usuario.
 
 4- Importamos desde "rich" la clase "Table" para poder crear visualizaciones de tablas en la terminal.
 
+5- Cabe resaltar que para poder probar la APP necesita crear una API KEY nueva en: https://platform.openai.com/account/api-keys.
 
 """
