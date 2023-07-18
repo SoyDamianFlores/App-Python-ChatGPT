@@ -1,1 +1,1 @@
-api_key = "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"
+api_key = "https://platform.openai.com/account/api-keys"
