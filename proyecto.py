@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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" #API KEY
+openai.api_key = "API-KEY" #API KEY
 
 
 while True: # Add un ciclo While para que la interaccion se repita.
