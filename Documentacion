@@ -1,0 +1,14 @@
+### DOCUMENTACION ###
+"""
+1- La primera parte de la app que basicamente se trataba de importar la libreria de Openai
+y crear el modelo de "Pregunta-Respuesta" con la plataforma ChatGPT. 
+
+2- Importamos la libreria "Typer" que es para crear programas desde la terminal.
+y a su vez estos se vean mas amigables para el usuario.
+
+3- Importamos "print" desde la libreria "rich" para agregar colores a los textos.
+
+4- Importamos desde "rich" la clase "Table" para poder crear visualizaciones de tablas en la terminal.
+
+
+"""
